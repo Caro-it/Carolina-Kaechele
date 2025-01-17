@@ -3,4 +3,4 @@
 
 ### Aqui podrás encontrar todo el código que he ido aprendiendo y proyectos en los que estoy trabajando.
 
-![alt text] (img1.jpg)
+![alt text] (images.jpg)
