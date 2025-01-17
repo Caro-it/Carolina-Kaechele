@@ -3,4 +3,4 @@
 
 ### Aqui podrás encontrar todo el código que he ido aprendiendo y proyectos en los que estoy trabajando.
 
-![alt text] (images.jpg)
+![mi imagen de presentacion] ([images.jpg](https://github.com/Caro-it/Carolina-Kaechele/edit/main/images.jpg))
